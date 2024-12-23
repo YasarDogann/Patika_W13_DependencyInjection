@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week13\\patika_w13_DependencyInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{048AAEA7-18EF-4925-8580-C0CD9D21F5AC}|patika_w13_DependencyInjection\\patika_w13_DependencyInjection.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week13\\patika_w13_dependencyinjection\\patika_w13_dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AAEA7-18EF-4925-8580-C0CD9D21F5AC}|patika_w13_DependencyInjection\\patika_w13_DependencyInjection.csproj|solutionrelative:patika_w13_dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AAEA7-18EF-4925-8580-C0CD9D21F5AC}|patika_w13_DependencyInjection\\patika_w13_DependencyInjection.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week13\\patika_w13_dependencyinjection\\patika_w13_dependencyinjection\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AAEA7-18EF-4925-8580-C0CD9D21F5AC}|patika_w13_DependencyInjection\\patika_w13_DependencyInjection.csproj|solutionrelative:patika_w13_dependencyinjection\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AAEA7-18EF-4925-8580-C0CD9D21F5AC}|patika_w13_DependencyInjection\\patika_w13_DependencyInjection.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week13\\patika_w13_dependencyinjection\\patika_w13_dependencyinjection\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AAEA7-18EF-4925-8580-C0CD9D21F5AC}|patika_w13_DependencyInjection\\patika_w13_DependencyInjection.csproj|solutionrelative:patika_w13_dependencyinjection\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AAEA7-18EF-4925-8580-C0CD9D21F5AC}|patika_w13_DependencyInjection\\patika_w13_DependencyInjection.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week13\\patika_w13_dependencyinjection\\patika_w13_dependencyinjection\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AAEA7-18EF-4925-8580-C0CD9D21F5AC}|patika_w13_DependencyInjection\\patika_w13_DependencyInjection.csproj|solutionrelative:patika_w13_dependencyinjection\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AAEA7-18EF-4925-8580-C0CD9D21F5AC}|patika_w13_DependencyInjection\\patika_w13_DependencyInjection.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week13\\patika_w13_dependencyinjection\\patika_w13_dependencyinjection\\interfaces\\iteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AAEA7-18EF-4925-8580-C0CD9D21F5AC}|patika_w13_DependencyInjection\\patika_w13_DependencyInjection.csproj|solutionrelative:patika_w13_dependencyinjection\\interfaces\\iteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week13\\patika_w13_DependencyInjection\\patika_w13_DependencyInjection\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "patika_w13_DependencyInjection\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week13\\patika_w13_DependencyInjection\\patika_w13_DependencyInjection\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "patika_w13_DependencyInjection\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:33:18.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week13\\patika_w13_DependencyInjection\\patika_w13_DependencyInjection\\Program.cs",
+              "RelativeDocumentMoniker": "patika_w13_DependencyInjection\\Program.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week13\\patika_w13_DependencyInjection\\patika_w13_DependencyInjection\\Program.cs",
+              "RelativeToolTip": "patika_w13_DependencyInjection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:30:49.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITeacher.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week13\\patika_w13_DependencyInjection\\patika_w13_DependencyInjection\\Interfaces\\ITeacher.cs",
+              "RelativeDocumentMoniker": "patika_w13_DependencyInjection\\Interfaces\\ITeacher.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week13\\patika_w13_DependencyInjection\\patika_w13_DependencyInjection\\Interfaces\\ITeacher.cs",
+              "RelativeToolTip": "patika_w13_DependencyInjection\\Interfaces\\ITeacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:25:44.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassRoom.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week13\\patika_w13_DependencyInjection\\patika_w13_DependencyInjection\\Models\\ClassRoom.cs",
+              "RelativeDocumentMoniker": "patika_w13_DependencyInjection\\Models\\ClassRoom.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week13\\patika_w13_DependencyInjection\\patika_w13_DependencyInjection\\Models\\ClassRoom.cs",
+              "RelativeToolTip": "patika_w13_DependencyInjection\\Models\\ClassRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:20:11.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week13\\patika_w13_DependencyInjection\\patika_w13_DependencyInjection\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "patika_w13_DependencyInjection\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week13\\patika_w13_DependencyInjection\\patika_w13_DependencyInjection\\Models\\Teacher.cs",
+              "RelativeToolTip": "patika_w13_DependencyInjection\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:17:50.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

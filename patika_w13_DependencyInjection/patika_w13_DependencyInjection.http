@@ -1,0 +1,6 @@
+@patika_w13_DependencyInjection_HostAddress = http://localhost:5159
+
+GET {{patika_w13_DependencyInjection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
